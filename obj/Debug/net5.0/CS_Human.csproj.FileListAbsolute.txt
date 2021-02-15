@@ -1,0 +1,16 @@
+/mnt/c/Users/enoch/Desktop/coding_dojo/Dojo_Assignments/cs_stack/cs_assignments/CS_Human/bin/Debug/net5.0/CS_Human
+/mnt/c/Users/enoch/Desktop/coding_dojo/Dojo_Assignments/cs_stack/cs_assignments/CS_Human/bin/Debug/net5.0/CS_Human.deps.json
+/mnt/c/Users/enoch/Desktop/coding_dojo/Dojo_Assignments/cs_stack/cs_assignments/CS_Human/bin/Debug/net5.0/CS_Human.runtimeconfig.json
+/mnt/c/Users/enoch/Desktop/coding_dojo/Dojo_Assignments/cs_stack/cs_assignments/CS_Human/bin/Debug/net5.0/CS_Human.runtimeconfig.dev.json
+/mnt/c/Users/enoch/Desktop/coding_dojo/Dojo_Assignments/cs_stack/cs_assignments/CS_Human/bin/Debug/net5.0/CS_Human.dll
+/mnt/c/Users/enoch/Desktop/coding_dojo/Dojo_Assignments/cs_stack/cs_assignments/CS_Human/bin/Debug/net5.0/ref/CS_Human.dll
+/mnt/c/Users/enoch/Desktop/coding_dojo/Dojo_Assignments/cs_stack/cs_assignments/CS_Human/bin/Debug/net5.0/CS_Human.pdb
+/mnt/c/Users/enoch/Desktop/coding_dojo/Dojo_Assignments/cs_stack/cs_assignments/CS_Human/obj/Debug/net5.0/CS_Human.csprojAssemblyReference.cache
+/mnt/c/Users/enoch/Desktop/coding_dojo/Dojo_Assignments/cs_stack/cs_assignments/CS_Human/obj/Debug/net5.0/CS_Human.GeneratedMSBuildEditorConfig.editorconfig
+/mnt/c/Users/enoch/Desktop/coding_dojo/Dojo_Assignments/cs_stack/cs_assignments/CS_Human/obj/Debug/net5.0/CS_Human.AssemblyInfoInputs.cache
+/mnt/c/Users/enoch/Desktop/coding_dojo/Dojo_Assignments/cs_stack/cs_assignments/CS_Human/obj/Debug/net5.0/CS_Human.AssemblyInfo.cs
+/mnt/c/Users/enoch/Desktop/coding_dojo/Dojo_Assignments/cs_stack/cs_assignments/CS_Human/obj/Debug/net5.0/CS_Human.csproj.CoreCompileInputs.cache
+/mnt/c/Users/enoch/Desktop/coding_dojo/Dojo_Assignments/cs_stack/cs_assignments/CS_Human/obj/Debug/net5.0/CS_Human.dll
+/mnt/c/Users/enoch/Desktop/coding_dojo/Dojo_Assignments/cs_stack/cs_assignments/CS_Human/obj/Debug/net5.0/ref/CS_Human.dll
+/mnt/c/Users/enoch/Desktop/coding_dojo/Dojo_Assignments/cs_stack/cs_assignments/CS_Human/obj/Debug/net5.0/CS_Human.pdb
+/mnt/c/Users/enoch/Desktop/coding_dojo/Dojo_Assignments/cs_stack/cs_assignments/CS_Human/obj/Debug/net5.0/CS_Human.genruntimeconfig.cache
